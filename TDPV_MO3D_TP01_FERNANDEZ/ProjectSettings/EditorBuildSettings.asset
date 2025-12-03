@@ -17,7 +17,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/scene_tp4_p3.unity
     guid: 568e3a709415d17478ab24aa3223e04c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/scene_tp5_p3.unity
     guid: c6cd4462d25072743aef5c506294ea00
+  - enabled: 1
+    path: Assets/Scenes/scene_tp6_p3.unity
+    guid: 31a067c8f6a851440a2043bf1982cc1d
   m_configObjects: {}

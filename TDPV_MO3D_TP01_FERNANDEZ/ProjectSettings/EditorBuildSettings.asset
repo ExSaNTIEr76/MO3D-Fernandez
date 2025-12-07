@@ -20,7 +20,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/scene_tp5_p3.unity
     guid: c6cd4462d25072743aef5c506294ea00
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/scene_tp6_p3.unity
     guid: 31a067c8f6a851440a2043bf1982cc1d
+  - enabled: 1
+    path: Assets/Scenes/scene_tp7_p4.unity
+    guid: 30c34c59fb8056546a5b2104245ea7bf
   m_configObjects: {}

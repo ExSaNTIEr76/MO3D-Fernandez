@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 071ed0566315a134f842cd564fdac11d, type: 3}
+  m_Name: Wave_20
+  m_EditorClassIdentifier: 
+  enemies:
+  - enemyPrefab: {fileID: 4451640673078011048, guid: d38fb2403af07fe47935bed328659442,
+      type: 3}
+    amount: 30
+  - enemyPrefab: {fileID: 5188961153871987292, guid: 06b4a990d6be79f44bf6a48717367df1,
+      type: 3}
+    amount: 30
+  - enemyPrefab: {fileID: 8578215182309369590, guid: c394e26919af30b438a6a2f30123731e,
+      type: 3}
+    amount: 1
+  - enemyPrefab: {fileID: 7447419716943949575, guid: eade86a66097ca7439b4bd45c7a1b085,
+      type: 3}
+    amount: 4
+  - enemyPrefab: {fileID: 4451640673078011048, guid: d38fb2403af07fe47935bed328659442,
+      type: 3}
+    amount: 30
+  - enemyPrefab: {fileID: 8578215182309369590, guid: c394e26919af30b438a6a2f30123731e,
+      type: 3}
+    amount: 2
+  - enemyPrefab: {fileID: 7447419716943949575, guid: eade86a66097ca7439b4bd45c7a1b085,
+      type: 3}
+    amount: 6
+  - enemyPrefab: {fileID: 4451640673078011048, guid: d38fb2403af07fe47935bed328659442,
+      type: 3}
+    amount: 80
